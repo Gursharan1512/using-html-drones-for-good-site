@@ -1,0 +1,103 @@
+body{
+	background-color: lightgrey;
+}
+
+.mainbody{
+	background-color: white;
+	width: 80%;
+	margin-top: -10px;
+	padding-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo-pic{
+	margin:auto;
+	width: 35%;
+}
+
+.homepage-pic{
+	background-image: url("../images/homepage.jpg");
+	text-align: center;
+}
+
+.homepage-pic iframe{
+	margin-bottom: -4px;
+}
+
+hr{
+	width:85%;
+}
+
+.top-content{
+	width: 85%;
+	margin:auto;
+}
+
+.left a{
+	text-decoration: none;
+	color: grey;
+}
+.left a:hover{
+	color: #e6b800;
+	text-decoration: underline;
+}
+
+span{
+	margin-left: 10px;
+	color: lightgrey;
+}
+
+.left{
+	padding-right: 20px;
+	color: grey;
+	display: inline;
+}
+
+.right{
+	padding-left: 15px;
+	float: right;
+	color: grey;
+	display: inline;
+}
+
+.right a{
+	text-decoration: none;
+	color: grey;
+}
+
+.right a:hover{
+	color: #e6b800;
+}
+
+.bottom-background{
+	background-image: url("../images/bottom.png");
+}
+
+.bottom-left{
+	color: grey;
+	margin-bottom: 6px;
+}
+
+.bottom-middle{
+	color: grey;
+	margin-bottom: 6px;
+}
+
+#bottom-right{
+	margin-top: 30px;
+	color: grey;
+}
+
+#bottom-bottom{
+	color :grey;
+	margin-top: 40px;
+	margin-bottom: 100px;
+}
+
+#bottom-left-mar{
+	margin-top: 10px;
+}
+
+#bottom-middle-mar{
+	margin-top: 10px;
+}
